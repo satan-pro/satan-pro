@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">My name is Sayantan and I'm a developer, from India</h3>
+<h3 align="left">My name is Sayantan and I'm a developer</h3>
 
 ###
 
@@ -78,4 +78,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=satan-pro&theme=react&hide_border=true&include_all_commits=true&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=satan-pro&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=satan-pro&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)<br/>
+
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=satan-pro&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
